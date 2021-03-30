@@ -10,7 +10,7 @@ Projek ini mengenai sistem pembayaran OVO dengan menggunakan 3 pembayaran yaitu 
 ![ComponenDiagram](https://user-images.githubusercontent.com/62185347/112981702-c2cfac80-9185-11eb-90cc-f7b4075c7edd.jpeg)
 
 
-Anggota Kelompok : 13
+## Anggota Kelompok : 13
 - Andi Setiawan Saputra - 1808107010039
 - Farhan Maulana - 1808107010063
 - Nisa Fakhira - 1808107010004

@@ -1,12 +1,12 @@
 # OVO-System-In-Component_Java
 
-##Project pengaplikasian OVO pada komponen di java dengan menggunakan interface
+## Project pengaplikasian OVO pada komponen di java dengan menggunakan interface
 Projek ini mengenai sistem pembayaran OVO dengan menggunakan 3 pembayaran yaitu First Media, Mnc Vision dan Transvision pada pembayaran internet dan tv kabel. OVO adalah sebuah aplikasi smart yang memberikan layanan pembayaran dan transaksi secara online(OVO Cash). Secara umum, OVO Cash dapat digunakan untuk berbagai macam pembayaran yang telah bekerja sama dengan OVO menjadi lebih cepat.
 
-##Class Diagram
+## Class Diagram
 ![ClassDiagram](https://user-images.githubusercontent.com/62185347/112981681-bcd9cb80-9185-11eb-937f-791e930a9c6f.jpeg)
 
-##Component Diagram
+## Component Diagram
 ![ComponenDiagram](https://user-images.githubusercontent.com/62185347/112981702-c2cfac80-9185-11eb-90cc-f7b4075c7edd.jpeg)
 
 
